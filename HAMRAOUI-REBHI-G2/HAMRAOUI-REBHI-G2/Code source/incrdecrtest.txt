@@ -1,0 +1,5 @@
+INTEGER I
+INTEGER J
+I + <- 2
+J - <- 1
+I - <- 1

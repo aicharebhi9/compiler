@@ -1,0 +1,7 @@
+INTEGER N<-29
+INTEGER I 
+FOR (I IN 1: 29)
+{
+N<-N+ 2
+}
+K<-2

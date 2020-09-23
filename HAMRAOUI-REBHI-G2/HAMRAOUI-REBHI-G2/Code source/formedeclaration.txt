@@ -1,0 +1,18 @@
+# Forme 1  doit etre en MAJ non deja declarer idf ,numeric... respecter taille non depassé
+ NUMERIC X 
+INTEGER Y 
+ #INTEGER Y  
+ LOGICAL U
+ CHAR C 
+#FORME 2 
+ LOGICAL S<-TRUE
+ NUMERIC Z<-5.2
+  INTEGER E<-5
+  CHAR G<-'b'
+# Forme 3
+ T<-5
+ X<-19.5     
+# dans le cas ou la var deja declaré selon la 3 forme devien une affectation 
+ J<-'t'
+ E <- ( Y  > 8) 
+ P<-TRUE

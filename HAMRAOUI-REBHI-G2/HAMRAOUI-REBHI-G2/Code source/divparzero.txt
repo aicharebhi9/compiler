@@ -1,0 +1,4 @@
+#division par zero
+INTEGER A <-5
+A<-8/0
+ 

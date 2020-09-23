@@ -1,0 +1,5 @@
+#affectation avec condiion
+INTEGER Z <- 4
+INTEGER X <- 7
+INTEGER Y
+Y <- IFELSE((Z>0),X,1)

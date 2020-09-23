@@ -1,0 +1,8 @@
+INTEGER X <-4
+INTEGER Y
+INTEGER Z<-3
+WHILE ( X < 5)
+{
+Y + <- 1 
+X<-X-1
+}

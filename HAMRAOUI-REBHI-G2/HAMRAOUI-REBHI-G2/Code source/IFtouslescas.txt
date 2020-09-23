@@ -1,0 +1,18 @@
+#cette format doit etre respectéé idf respectéé [commance par maj et ne depasse pas 12 de taille ]
+# et les mots reserveé respecteé sont en MAJ  
+#  les variable utiliser dans les condition  doit etre déja declaré selon les 3 forme de declaration
+INTEGER X<-6
+INTEGER C<-6
+IF ((X==1) or(C<7))
+ { 
+Y<- X /2 
+ }
+ELSEIF ( Y < 1)
+{ 
+A<-5 
+} 
+ELSE 
+{ 
+B<-0
+}
+ 
