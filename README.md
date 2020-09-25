@@ -1,6 +1,6 @@
 # compiler
 The procedure to follow :
-  1.Create a .bat file and name it RUN with .bat extension (RUN.bat)
+  1.Create a .bat file and name it RUN with .bat extension (RUN.bat) if already exist go to 4
   2. Write the following lines of code:
       flex flex.l
       bison -d bison.y
@@ -11,10 +11,11 @@ The procedure to follow :
   5.There will be a display, choose your choice
   6.If you want to resume the display, run the command copmilM1
   
+  
   #compilateur 
   
   La procédure à suivre :
-  1.Creer un fichier .bat et le nomé RUN avec extention .bat (RUN.bat)
+  1.Creer un fichier .bat et le nomé RUN avec extention .bat (RUN.bat) si est deja créé executer la cmd ligne 4 
   2.Ecrire les ligne de code suivantes :
       flex flex.l
       bison -d bison.y
